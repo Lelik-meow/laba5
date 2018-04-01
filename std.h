@@ -7,4 +7,5 @@ cout « "Введите первое число: ";
 cin » number1; 
 cout « "Введите второе число: "; 
 cin » number2; 
+return number1+number2; 
 }
